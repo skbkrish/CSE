@@ -11,4 +11,4 @@ Anyone can make Pull Requests / Issues to make changes to the repo in accordance
 
 ##### ***Disclaimer***: This repo doesn't include the notes adhering to the first year syllabus of KTU as I personally believe it isn't as important as semesters 3-8. Anyone can suggest changes and edits to this repo, so contribute some of the important stuff!
 
-***P.S***: in fact I didn't make notes until the starting of this repo and hence would like to make that clear!
+***P.S***: in fact I don't make notes, not until the starting of this repo and hence would like to make that clear for your kind consideration!
